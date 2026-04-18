@@ -1,0 +1,7 @@
+Flask
+google-generativeai
+werkzeug
+gTTS
+requests
+gunicorn
+supabase-py
